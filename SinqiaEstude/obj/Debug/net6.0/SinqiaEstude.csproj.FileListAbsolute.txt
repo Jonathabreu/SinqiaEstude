@@ -1,0 +1,15 @@
+D:\Programação\SinqiaEstude\SinqiaEstude\bin\Debug\net6.0\SinqiaEstude.exe
+D:\Programação\SinqiaEstude\SinqiaEstude\bin\Debug\net6.0\SinqiaEstude.deps.json
+D:\Programação\SinqiaEstude\SinqiaEstude\bin\Debug\net6.0\SinqiaEstude.runtimeconfig.json
+D:\Programação\SinqiaEstude\SinqiaEstude\bin\Debug\net6.0\SinqiaEstude.dll
+D:\Programação\SinqiaEstude\SinqiaEstude\bin\Debug\net6.0\SinqiaEstude.pdb
+D:\Programação\SinqiaEstude\SinqiaEstude\obj\Debug\net6.0\SinqiaEstude.csproj.AssemblyReference.cache
+D:\Programação\SinqiaEstude\SinqiaEstude\obj\Debug\net6.0\SinqiaEstude.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\SinqiaEstude\SinqiaEstude\obj\Debug\net6.0\SinqiaEstude.AssemblyInfoInputs.cache
+D:\Programação\SinqiaEstude\SinqiaEstude\obj\Debug\net6.0\SinqiaEstude.AssemblyInfo.cs
+D:\Programação\SinqiaEstude\SinqiaEstude\obj\Debug\net6.0\SinqiaEstude.csproj.CoreCompileInputs.cache
+D:\Programação\SinqiaEstude\SinqiaEstude\obj\Debug\net6.0\SinqiaEstude.dll
+D:\Programação\SinqiaEstude\SinqiaEstude\obj\Debug\net6.0\refint\SinqiaEstude.dll
+D:\Programação\SinqiaEstude\SinqiaEstude\obj\Debug\net6.0\SinqiaEstude.pdb
+D:\Programação\SinqiaEstude\SinqiaEstude\obj\Debug\net6.0\SinqiaEstude.genruntimeconfig.cache
+D:\Programação\SinqiaEstude\SinqiaEstude\obj\Debug\net6.0\ref\SinqiaEstude.dll
